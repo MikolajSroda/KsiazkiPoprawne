@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "year": "2021",
+        "month": "Marzec",
+        "title": "PanTadeusz",
+        "img": "./img/PanTadeusz.jpg",
+        "stock": true,
+        "premiere": true
+    },
+
+    {
+        "id": 2,
+        "year": "2022",
+        "month": "Kwiecień",
+        "title": "Whisky",
+        "img": "./img/whisky.png",
+        "stock": false,
+        "premiere": false
+    },
+
+    {
+        "id": 3,
+        "year": "2021",
+        "month": "Maj",
+        "title": "wybor",
+        "img": "./img/wybor.jpg",
+        "stock": true,
+        "premiere": true
+    },
+
+    {
+        "id": 4,
+        "year": "2022",
+        "month": "Styczeń",
+        "title": "lalka",
+        "img": "./img/lalka.jpg",
+        "stock": false,
+        "premiere": false
+    },
+
+    {
+        "id": 5,
+        "year": "2022",
+        "month": "Wrzesień",
+        "title": "poradnikprezesa",
+        "img": "./img/poradnikprezesa.jpg",
+        "stock": true,
+        "premiere": true
+    },
+
+    {
+        "id": 6,
+        "year": "2021",
+        "month": "Grudzień",
+        "title": "poradnikprezesa",
+        "img": "./img/poradnikprezesa.jpg",
+        "stock": false,
+        "premiere": false
+    }
+
+
+
+
+
+]
+
